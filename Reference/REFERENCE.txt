@@ -1,0 +1,26 @@
+# Vlastní tvorba a konzultace
+kód /GameLogic/*.cs – vlastní tvorba s konzultacemi (ChatGPT, OpenAI)
+kód save/load – vlastní implementace s využitím XmlSerializer (.NET standardní knihovna)
+• Licence: Microsoft Public Reference Documentation
+• URL: https://learn.microsoft.com/en-us/dotnet/standard/serialization/xml-serialization
+font /Content/Fonts/DefaultFont.spritefont – výchozí systémový font (vytvořen pomocí MonoGame Content Pipeline)
+• Licence: Microsoft system font (v souladu s licencí použití systému Windows)
+• URL: https://learn.microsoft.com/en-us/uwp/design/style/font-list
+
+# Externí assety od Kenney.nl
+grafika /Content/Textures/* – Kenney assets (https://kenney.nl/assets)
+• Použity balíčky:
+  - Space Shooter Redux
+  - Space Shooter Extension
+  - Space Kit
+• Licence: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+• URL: https://kenney.nl/assets
+
+# Externí návody a inspirace
+YouTube – obecná inspirace pro animace spriteů a tvorbu 2D her
+• Licence: osobní použití, bez převzatého kódu
+• URL: https://www.youtube.com/results?search_query=monogame+2d+game
+
+ChatGPT (OpenAI) – nápověda a konzultace při návrhu struktury hry a řešení technických problémů
+• Licence: použití v souladu s podmínkami OpenAI
+• URL: https://chat.openai.com
